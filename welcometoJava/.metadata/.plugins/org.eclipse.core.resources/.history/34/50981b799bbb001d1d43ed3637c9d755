@@ -1,0 +1,5 @@
+package pkg_person;
+
+public class Librarian extends Person {
+
+}
